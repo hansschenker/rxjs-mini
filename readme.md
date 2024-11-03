@@ -1,35 +1,14 @@
-# Webpack App Starter
+# Rxjs mini
 
-Frontend environment for building JavaScript applications
+Rxjs mini is an attemüt to write a minimal version of Rxjs with the help of ChatGPT canvas
 
-Includes the following features...
+## 3 Observables
+- of
+- from
+- range
 
-- Babel Loader
-- Sass Loader With Dart Sass
-- HTMLWebpackPlugin
-- WebpackDevServer
-- Asset Resource Loader
-- Source Maps
-- Caching
 
-## Usage
+## 2 Operators
+- map
+- filter
 
-Run Dev Server (Port 3000)
-
-```
-  npm run dev
-```
-
-## Build for production
-
-```
-npm run build
-```
-
-## Demo App
-
-The demo app is a very simple Joke generator. Replace with your own code and install other packages as needed
-
-- index.js (main javascript)
-- template.html (template)
-- styles/main.scss (styles)
